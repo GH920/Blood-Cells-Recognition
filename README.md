@@ -1,5 +1,5 @@
 # Blood-Cells-Recognition
-This project is made by a in-class Kaggle-like competition. (Machine Learning II Exam 2 Competition - By Prof. Amir Jafari)
+This project is made by an in-class Kaggle-like competition. (Machine Learning II Exam 2 Competition - By Prof. Amir Jafari)
 <br>
 
 ## Introduction
