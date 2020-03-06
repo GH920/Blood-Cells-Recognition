@@ -10,3 +10,6 @@ Towards the leader-board, we will use the Binary Cross-Entropy loss. The targets
 
 ## Environment
 I run these codes in the cloud computing engines, like GCP or AWS. The deep learning package is Pytorch, and I will run my codes as tensors in GPU. Please be aware you need to have enough CUDA memory to run these codes. For your information, my computing engine has 8GB CUDA memory.
+
+## Model
+CNN. Pre-trained model (VGG-16).
